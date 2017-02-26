@@ -11,8 +11,10 @@ Build commanad :
     cd question1
     <br>
     python3 que1.py
-    
+   <br> 
   <b>for question2:</b>
+  <br>
     cd question2
+   <br>
     python3 que2.py
   
