@@ -8,13 +8,13 @@ Build commanad :
 <br>
   <b>for question1:</b>
   <br>
-    cd question1
+   &nbsp; &nbsp; cd question1
     <br>
-    python3 que1.py
+    &nbsp; &nbsp; python3 que1.py
    <br> 
   <b>for question2:</b>
   <br>
-    cd question2
+     &nbsp; &nbsp; cd question2
    <br>
-    python3 que2.py
+    &nbsp; &nbsp; python3 que2.py
   
