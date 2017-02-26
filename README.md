@@ -5,8 +5,11 @@ clone the zip file
 extract the file
 
 Build commanad :
+<br>
   <b>for question1:</b>
+  <br>
     cd question1
+    <br>
     python3 que1.py
     
   <b>for question2:</b>
