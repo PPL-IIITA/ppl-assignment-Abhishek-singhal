@@ -143,7 +143,7 @@ def happiness():
 		cp.set_happiness()
 		cp.set_compatibility()
 		
-		print(cp.compatibility)
+		#print(cp.compatibility)
 
 happiness()
 CoupleObjectList = sorted(CoupleObjectList,key=lambda x: x.happiness , reverse = True)
