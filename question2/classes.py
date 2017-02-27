@@ -56,8 +56,8 @@ class Couple:
 		b = abs(int(self.boy.attractiveness) - int(self.girl.attractiveness))
 		c = abs(int(self.boy.intelligence) - int(self.girl.intelligence))
 		self.compatibility = a+b+c
-		print("*****")
-		print(self.compatibility)	
+		#print("*****")
+		#print(self.compatibility)	
 
 	def set_happiness(self):
 		self.happiness = int(self.boy.happiness) + int(self.girl.happiness)
