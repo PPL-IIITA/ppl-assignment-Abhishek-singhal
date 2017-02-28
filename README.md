@@ -2,9 +2,10 @@
 ppl-assignment-Abhishek-singhal created by GitHub Classroom
 
 clone the zip file
+<br>
 extract the file
 
-Build commanad :
+<h3>Build commanad :</h3>
 <br>
   <b>for question1:</b>
   <br>
@@ -12,6 +13,7 @@ Build commanad :
     <br>
     &nbsp; &nbsp; python3 que1.py
    <br> 
+   <br>
   <b>for question2:</b>
   <br>
      &nbsp; &nbsp; cd question2
