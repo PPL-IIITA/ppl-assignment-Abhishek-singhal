@@ -1,0 +1,16 @@
+que5	que5-module.html
+que5.girllist	que5-module.html#girllist
+que5.gl	que5-module.html#gl
+que5.BoyObjectList	que5-module.html#BoyObjectList
+que5.GirlObjectList	que5-module.html#GirlObjectList
+que5.__package__	que5-module.html#__package__
+que5.boylist	que5-module.html#boylist
+que5.reader	que5-module.html#reader
+que5.giftlist	que5-module.html#giftlist
+que5.GirlObjectList2	que5-module.html#GirlObjectList2
+que5.GiftObjectList	que5-module.html#GiftObjectList
+que5.by	que5-module.html#by
+que5.f	que5-module.html#f
+que5.i	que5-module.html#i
+que5.j	que5-module.html#j
+que5.CoupleObjectList	que5-module.html#CoupleObjectList
