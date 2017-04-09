@@ -1,6 +1,6 @@
 from utillitymaker import *
-from classes import Boy,Girl,Couple,Gift,BinarySort,sort,hashing
-from library import gift,logs ,happiness
+from library import gift2,happiness,logs,gift
+from classes import Boy,Girl,Couple,Gift
 import csv, logging,math
 #from giftprocedure import *
 
@@ -50,28 +50,21 @@ for gl in GirlObjectList:
 			CoupleObjectList.append(Couple(by,gl))
 			break
 
+print("Enter the type of gifting : ")
+print("for gifting w.r.t to their budget enter 1 ")
+print("for minimum gifting enter 2 (for defualt enter 0) ")
 
-
-gift(GiftObjectList,CoupleObjectList)
+j = int(input())
+if j==0 or j==1:
+	gift(GiftObjectList,CoupleObjectList)
+else:
+	gift2(GiftObjectList,CoupleObjectList)
 happiness(CoupleObjectList)
 
-
-		#print(cp.compatibility)
-
-print("Plz enter the way of search :  ")
-print("1 for Linear search")
-print("2 for binary search")
-print("3 for hashtable (0 for default) ")
-#i = int(input())
-i=2
-if int(i) == 1 or int(i) == 0:
-	x = sort(BoyObjectList,CoupleObjectList)
-elif int(i) ==2:
-	x = BinarySort(BoyObjectList,CoupleObjectList)
-else:
-	x = hashing(BoyObjectList,CoupleObjectList)
-x.sorting()
-
+for cp in CoupleObjectList:
+	print(cp.boy.name + " give gift to the " +cp.girl.name)
+	for i in cp.gifts:
+		print(i.name+" "+ i.type+" ")
 
 
 

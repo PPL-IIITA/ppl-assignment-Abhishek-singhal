@@ -1,0 +1,16 @@
+que8	que8-module.html
+que8.girllist	que8-module.html#girllist
+que8.cp	que8-module.html#cp
+que8.gl	que8-module.html#gl
+que8.BoyObjectList	que8-module.html#BoyObjectList
+que8.GirlObjectList	que8-module.html#GirlObjectList
+que8.__package__	que8-module.html#__package__
+que8.boylist	que8-module.html#boylist
+que8.reader	que8-module.html#reader
+que8.giftlist	que8-module.html#giftlist
+que8.GiftObjectList	que8-module.html#GiftObjectList
+que8.by	que8-module.html#by
+que8.f	que8-module.html#f
+que8.i	que8-module.html#i
+que8.j	que8-module.html#j
+que8.CoupleObjectList	que8-module.html#CoupleObjectList
